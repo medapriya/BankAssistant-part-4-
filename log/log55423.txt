@@ -1,0 +1,19 @@
+************************************************************
+		Welcome to Fedral Bank
+************************************************************
+Hello
+User :hello
+Bot :Hello there What assistance can I offer you?
+###################
+User :Account Details
+Bot :Account number : 0147852369
+###################
+User :credit card details
+Bot :9500 dollars
+###################
+User :address
+Bot :Say that one more time?
+###################
+We are happy to serve you. 
+Thanks for visiting. 
+Please visit again.

@@ -1,0 +1,14 @@
+************************************************************
+		Welcome to Fedral Bank
+************************************************************
+Hello
+User :hello
+Bot :Hello there What assistance can I offer you?
+###################
+User :credit
+Bot :9500 dollars
+###################
+User :hello
+Bot :Hi How may I assist you?
+###################
+User :cibil score

@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "bankassistant-wstj",
+  "private_key_id": "08c720dee6f198a34784f50c2175f677b6d14d1d",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDc/KaAbnRdY2vz\n1+b4HDjbI1r8LklJPWPjF/xN0Lce35xU5NGb2fVeZ5cURUYqkYVBASIJrNOQhpJ2\nD30Il3W9m6VVcwMmJVbfoFrUFbwrs0Yc7aEUOaTYKpJzSZJPXm8OqfosWi7Jnq56\n38p32xGmdIGGTLFliD1xj2b7iNov8nwKxveueO+PILJsbhnTFlt4gbK8W/YP5geo\n9twkbxWE2ULNo2Lza9Huy2QyPXMeVIK3p8rYKUG/4Ye4a0Amg2SFrSv8AALc5eQ5\nm3bFbVUXLPh/w7nM0pt/YpCN49tRp3Zs5LaseojBR+dao0qw0bbybvYWn/oEhnBz\nRupZo9LBAgMBAAECggEAArfAvHefSr68RyVym76NHHTU26EeGZ59qf9ThQl6FxEc\n9RZTVZ1anSyc+QzZDhD4GJKQ/pl3iKF/D6ClIwPp2MkfQWvGsCNpbBqmw1D5HXh4\n9kYd4wfKdTYg0vYmrH820nFYuE7roGMpNi2mac7x6qAoL6Sl0d/ZEZp348QNGuXU\nssAVAh2ot8GCmBdBYvuXRBjXNGAVTcYBnP9qzvl6NK7i2R/utOfgen+vK3vGt5B+\n1K/QCAGjoB41YbOGaXEY9XjdsOieesbsl9mVTlI1Oqod1MwSr35cQKUpR2D7+ycn\nHQP32u22oG3S0iRTXIw5KlbrUPNU/zaSOwFBhTQSeQKBgQDyMjHv9IUDJyVpBpah\nvwZqz3L4X38LnFAziF1xDx/jS2A5fKWQixexdr3UNI6m7z3cSwHt7guv6pgCBxlj\njxYiVk+PXEa7G8qMu664EpeesaDwDazcYpaJRCnxMtNThTFqBW7LnWlxwkdydqaR\nJTG76wpti9Y/NKnDelTMyt/WewKBgQDplP/Tkv3SjB4dDty3hrq9Ti9YyRRIgwzP\n/z1e46uQ0tpgVxiOK8u/KJjIypA+Gb2XcEFEg/J9lS5ds5KeqqPC9PrH5DsQC55m\nfd5nEQENJZiUiuTYeINMWoivs0ddMb0cO0ks1qr1SIvPvYJIMjBFLDWioNC76MX7\n4FWuPtr08wKBgDl1ZxuCazwAQYPVKE9fPmqApMn//egHQY+4PlLgP7Rw4XdB9xV/\nqjNT9F0vytgX0hk9QkvsOaGWilGQ1ZklDR9AUse0IKOrSDZzIFRTNN1VTtUkqWnv\nib8vCLRMVo5t/vckKtDrm2R9ru2c8I9mv5HRhTvP/RgpqkzR7ORZDRmZAoGBAJyh\n8MdEu3ZzxUHBFJrw+so04qUL+dECKBZWVyYJT6QG8K9H2EyF69Pc+k8zHnS2OB+U\nBABY5sP1xKjK4RgK31O9iWl/j2ecEvUxlHDSwzy4qE97sCfE8G7ECwKfGszQrLqA\nuvoZXXyr0C1XLEUTerD4C2NpqW9IkXLspSf6OEOnAoGBAOXrEcwHW1Xs9ksj3vs1\nW30/qJMdCz5CtsfXkXAIjERAzH3CQ5F6nyypdGMrcVpsCSNwdUGJmnecM5WWMTaL\nh9kRy1+EWUfJWlNrcFNXk2EyvODoBdv3KmLHlSJZfmANd8rFsK4K/2fmrg65U9xj\n1Vy/bmcq6t4cce6hADUkbIao\n-----END PRIVATE KEY-----\n",
+  "client_email": "bankassistant@bankassistant-wstj.iam.gserviceaccount.com",
+  "client_id": "109929402077796980977",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/bankassistant%40bankassistant-wstj.iam.gserviceaccount.com"
+}

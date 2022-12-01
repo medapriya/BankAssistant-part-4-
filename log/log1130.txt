@@ -1,0 +1,22 @@
+************************************************************
+		Welcome to Fedral Bank
+************************************************************
+Hello
+User :hi
+Bot :Hello How may I assist you?
+###################
+User :credit
+Bot :9500 dollars
+###################
+User :hello
+Bot :Hai How can I assist you?
+###################
+User :address
+Bot :MC ARDLE ROAD ,TX
+###################
+User :hello
+Bot :Hello there What assistance can I offer you?
+###################
+User :a credit score
+Bot :680
+###################

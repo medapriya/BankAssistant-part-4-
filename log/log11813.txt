@@ -1,0 +1,8 @@
+************************************************************
+		Welcome to Fedral Bank
+************************************************************
+Hello
+User :hello
+Bot :Hello How may I assist you?
+###################
+User :credit score

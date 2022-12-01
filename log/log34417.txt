@@ -1,0 +1,43 @@
+************************************************************
+		Welcome to Fedral Bank
+************************************************************
+Hello
+User :hello
+Bot :Hi How may I assist you?
+###################
+User :account
+Bot :Account number : 0147852369
+###################
+User :credit score
+Bot :"680"
+###################
+User :loan details
+Bot :One more time?
+###################
+User :hi
+Bot :Hi How may I assist you?
+###################
+User :lung cancer
+Bot :I missed that, say that again?
+###################
+User :loan details
+Bot :80000 dollars
+###################
+User :credit balance
+Bot :Sorry, could you say that again?
+###################
+User :credit limit
+Bot :I didn't get that. Can you say it again?
+###################
+User :hello
+Bot :Hello there What assistance can I offer you?
+###################
+User :credit limit
+Bot :9500 dollars
+###################
+User :address
+Bot :MC ARDLE ROAD ,TX
+###################
+We are happy to serve you. 
+Thanks for visiting. 
+Please visit again.

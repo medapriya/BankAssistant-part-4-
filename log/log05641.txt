@@ -1,0 +1,37 @@
+************************************************************
+		Welcome to Fedral Bank
+************************************************************
+Hello
+User :hello
+Bot :Hello How may I assist you?
+###################
+User :alone
+Bot :I didn't get that. Can you say it again?
+###################
+User :The Beatles
+Bot :Sorry, can you say that again?
+###################
+User :details
+Bot :I didn't get that. Can you repeat?
+###################
+User :loan details
+Bot :Say that one more time?
+###################
+User :hi
+Bot :Hi How may I assist you?
+###################
+User :loan details
+Bot :80000 dollars
+###################
+User :hi
+Bot :Hello there What assistance can I offer you?
+###################
+User :address
+Bot :Ameerpet, Telangana
+###################
+User :I
+Bot :What was that?
+###################
+User :hello
+Bot :Hello there What assistance can I offer you?
+###################
